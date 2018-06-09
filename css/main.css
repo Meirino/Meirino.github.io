@@ -1,0 +1,27 @@
+.container-fluid {
+    padding: 0;
+}
+
+.jumbotron{
+    height: 100vh;
+    background-image: url("https://orig00.deviantart.net/fe1f/f/2017/176/9/4/low_poly_mountain_by_photosoups-dbe0kxj.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.layer {
+    /* background-color: #8BC34A; */
+    background-color: rgba(255, 255, 255, 0.1);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.avatar {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
